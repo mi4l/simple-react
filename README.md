@@ -5,6 +5,8 @@ A simple app meant to teach React fundamentals.  The following topics will be co
 - Context
 - Component classes and lifecycle methods
 - Hooks
+- Redux
+- React-redux
 
 `React` and `ReactDOM` source will also be covered.
 
