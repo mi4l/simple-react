@@ -1,0 +1,28 @@
+{
+  "name": "simple-react",
+  "version": "1.0.0",
+  "description": "A simple app meant to teach React fundamentals.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mskalandunas/simple-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mskalandunas/simple-react/issues"
+  },
+  "homepage": "https://github.com/mskalandunas/simple-react#readme",
+  "devDependencies": {
+    "parcel": "^2.2.1"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
