@@ -1,6 +1,7 @@
 import ReactDOM from 'react-dom';
+import { TodoApplication } from './TodoApplication';
 
 ReactDOM.render(
-  <h1>Hello world</h1>,
+  <TodoApplication title="Tommy's todo list" />,
   document.getElementById('AppRoot')
 );
